@@ -3,7 +3,7 @@ A **S**tandalone **P**lugin to **E**valuate **C**lassification **T**echniques fo
 \
 Version: "1.0.0"\
 Author: Daina Leyva\
-Email: "daina.leyva.perniaa@desy.de", "daina.leyva.pernia@cern.ch", "d.leyvapernia02@gmail.com"
+Email: "daina.leyva.pernia@desy.de", "daina.leyva.pernia@cern.ch", "d.leyvapernia02@gmail.com"
 
 # Pre-requisites
 This code is independent of CMSSW, however, running in the CMSSW area of the main MSSM Hbb analysis framework is recommended.
