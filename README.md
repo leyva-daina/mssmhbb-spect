@@ -9,4 +9,6 @@ Email: "daina.leyva.pernia@desy.de", "daina.leyva.pernia@cern.ch", "d.leyvaperni
 This code is independent of CMSSW, however, running in the CMSSW area of the main MSSM Hbb analysis framework is recommended.
 
 ## Installatiom
-git clone https://github.com/leyva-daina/mssmhbb-spect MSSMHBB-SPECT
+git clone https://github.com/leyva-daina/mssmhbb-spect mssmhbb-spect
+
+
