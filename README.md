@@ -1,7 +1,7 @@
 # mssmhbb-spect
-A **S**tandalone **P**lugin to **E**valuate **C**lassification **T**echniques for the MSSM Hbb analysis of the DESY CMS Higgs -> bb group
-Author Daina Leyva
-Email: "daina.leyv.perniaa@desy.de" "d.leyvapernia@gmail.com" "daina.leyva.pernia@cern.ch"
+A **S**tandalone **P**lugin to **E**valuate **C**lassification **T**echniques for the MSSM Hbb analysis of the DESY CMS Higgs -> bb group\
+Author Daina Leyva\
+Email: "daina.leyva.perniaa@desy.de", "daina.leyva.pernia@cern.ch", "d.leyvapernia02@gmail.com"
 
 Version: "1.0.0"
 
